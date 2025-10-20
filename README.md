@@ -8,4 +8,8 @@
 </a><br>
 <a href="mailto:amurilosantos@gmail.com">
   <img src="https://img.shields.io/badge/Email-amurilosantos%40gmail.com-blue?logo=gmail&logoColor=white" alt="Email"/>
-</a></p>
+</a><br>
+<a href="https://www.linkedin.com/in/anderson-murilo-santos" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Anderson%20Murilo%20Santos-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</p>
