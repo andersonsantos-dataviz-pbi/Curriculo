@@ -1,3 +1,4 @@
+###
 # Currículo
 <img src="https://github.com/user-attachments/assets/41e106e8-b145-4441-8619-9d4779632ede" alt="foto curriculo" min-width="148px" max-width="149px" width="148px" align="left">
 <br>
@@ -12,5 +13,19 @@
 <a href="https://www.linkedin.com/in/anderson-murilo-santos" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Anderson%20Murilo%20Santos-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-</p><br>
+</p>
+
+## 👤 Pessoais
+<p align="left">
+💍Casado<br>
+📅Nascido em 1979<br>
+🌎Brasileiro<br>
+⚓ Belo Horizonte - MG
+</p>
+
+## 🎯 Objetivo
+<p align="left">
+Proporcionar às empresas uma melhor visualização de suas informações por meio de dashboards
+interativos e performáticos, facilitando a tomada de decisão com dados históricos e atuais.
+</p>
 
