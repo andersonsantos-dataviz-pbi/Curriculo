@@ -1,5 +1,5 @@
 ###
-# Currículo
+# 📒 Currículo
 <img src="https://github.com/user-attachments/assets/41e106e8-b145-4441-8619-9d4779632ede" alt="foto curriculo" min-width="148px" max-width="149px" width="148px" align="left">
 <br>
 <p align="left"> 
