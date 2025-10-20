@@ -1,4 +1,4 @@
-# Curriculo
+# Currículo
 <img src="https://github.com/user-attachments/assets/41e106e8-b145-4441-8619-9d4779632ede" alt="foto curriculo" min-width="148px" max-width="149px" width="148px" align="left">
 <br>
 <p align="left"> 
@@ -12,4 +12,5 @@
 <a href="https://www.linkedin.com/in/anderson-murilo-santos" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Anderson%20Murilo%20Santos-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-</p>
+</p><br>
+
